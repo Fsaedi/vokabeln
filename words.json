@@ -1,0 +1,2837 @@
+[
+  {
+    "id": 1,
+    "word": "freizeit",
+    "spelling": "فقای تسایت",
+    "meaning": "free time",
+    "example": ""
+  },
+  {
+    "id": 2,
+    "word": "alles in Ordnung?",
+    "spelling": "آلس این اردنونگ",
+    "meaning": "Is everything OK?",
+    "example": ""
+  },
+  {
+    "id": 3,
+    "word": "kannst du bitte mir helfen?",
+    "spelling": "کانست دو بیته میا هلفن",
+    "meaning": "can you help me please?",
+    "example": ""
+  },
+  {
+    "id": 4,
+    "word": "Ich habe hunger",
+    "spelling": "ایش هاب هونگا",
+    "meaning": "I'm hungry",
+    "example": ""
+  },
+  {
+    "id": 5,
+    "word": "was machen Sie",
+    "spelling": "واس ماخن زی",
+    "meaning": "How do you do?",
+    "example": ""
+  },
+  {
+    "id": 6,
+    "word": "was machst du? (impolitely way of no. 5)",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 7,
+    "word": "können Sie bitte mir helfen? (politely way of no. 3)",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 8,
+    "word": "dass",
+    "spelling": "داس",
+    "meaning": "that",
+    "example": ""
+  },
+  {
+    "id": 9,
+    "word": "kommen",
+    "spelling": "کومن",
+    "meaning": "to go",
+    "example": ""
+  },
+  {
+    "id": 10,
+    "word": "Ich komme hier dass mine mutter wasser trinkt",
+    "spelling": "ایش کومه هیا داس ماینه موتا واسا تقینکت",
+    "meaning": "I come here that my mother drinks watter",
+    "example": ""
+  },
+  {
+    "id": 11,
+    "word": "Sohn",
+    "spelling": "زون",
+    "meaning": "Son",
+    "example": ""
+  },
+  {
+    "id": 12,
+    "word": "Was bist du von Beruf?",
+    "spelling": "واس بیست دو فون بقوف",
+    "meaning": "what's your job?",
+    "example": ""
+  },
+  {
+    "id": 13,
+    "word": "Was machst du beruflich?",
+    "spelling": "واس ماخست دو بقفلیش",
+    "meaning": "the same as 12",
+    "example": ""
+  },
+  {
+    "id": 14,
+    "word": "Ich arbeite als kellner",
+    "spelling": "ایش بین آلس کلناق",
+    "meaning": "I work as a waiter",
+    "example": ""
+  },
+  {
+    "id": 15,
+    "word": "Ich arbeite bei KFC",
+    "spelling": "",
+    "meaning": "من در kfc کار میکنم",
+    "example": ""
+  },
+  {
+    "id": 16,
+    "word": "Was ist richtig?",
+    "spelling": "واس ایست ریشتیغ",
+    "meaning": "what's wright?",
+    "example": ""
+  },
+  {
+    "id": 17,
+    "word": "Wie ist dein Familienstand?",
+    "spelling": "فامیلین اشتاند",
+    "meaning": "what's your marital status?",
+    "example": ""
+  },
+  {
+    "id": 18,
+    "word": "Ich bin 50 Jahre although",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 19,
+    "word": "Wie alt bist du?",
+    "spelling": "",
+    "meaning": "How old are you?",
+    "example": ""
+  },
+  {
+    "id": 20,
+    "word": "Tür",
+    "spelling": "تویا",
+    "meaning": "Door",
+    "example": ""
+  },
+  {
+    "id": 21,
+    "word": "das Fenster",
+    "spelling": "فنستا",
+    "meaning": "Window",
+    "example": ""
+  },
+  {
+    "id": 22,
+    "word": "der Stuhl",
+    "spelling": "اشتول",
+    "meaning": "Chair",
+    "example": ""
+  },
+  {
+    "id": 23,
+    "word": "Ich habe Durst",
+    "spelling": "ایش هابه درست",
+    "meaning": "I'm thristy",
+    "example": ""
+  },
+  {
+    "id": 24,
+    "word": "Guten Appetit",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 25,
+    "word": "Sonne",
+    "spelling": "زنه",
+    "meaning": "sun",
+    "example": ""
+  },
+  {
+    "id": 26,
+    "word": "der Baum",
+    "spelling": "باوم",
+    "meaning": "Tree",
+    "example": ""
+  },
+  {
+    "id": 27,
+    "word": "die Blume",
+    "spelling": "بلومه",
+    "meaning": "flower",
+    "example": ""
+  },
+  {
+    "id": 28,
+    "word": "Ich bin müde",
+    "spelling": "موده",
+    "meaning": "I'm tired",
+    "example": ""
+  },
+  {
+    "id": 29,
+    "word": "Ich bin bereit",
+    "spelling": "بقایت",
+    "meaning": "I'm ready",
+    "example": ""
+  },
+  {
+    "id": 30,
+    "word": "Ich bin glücklich",
+    "spelling": "گلوکلیش",
+    "meaning": "I'm happy",
+    "example": ""
+  },
+  {
+    "id": 31,
+    "word": "Natürlich",
+    "spelling": "ناتورلیش",
+    "meaning": "of course",
+    "example": ""
+  },
+  {
+    "id": 32,
+    "word": "Es tut mir leid",
+    "spelling": "اس توت میا لایت",
+    "meaning": "I'm sorry",
+    "example": ""
+  },
+  {
+    "id": 33,
+    "word": "kein Problem",
+    "spelling": "",
+    "meaning": "no problem",
+    "example": ""
+  },
+  {
+    "id": 34,
+    "word": "bis später",
+    "spelling": "بیس اشپِتِر",
+    "meaning": "see you later",
+    "example": ""
+  },
+  {
+    "id": 35,
+    "word": "bis bald",
+    "spelling": "بیس بالت",
+    "meaning": "see you soon",
+    "example": ""
+  },
+  {
+    "id": 36,
+    "word": "Lange nicht gesehen",
+    "spelling": "لانگ نیش گزیهن",
+    "meaning": "Long time no see",
+    "example": ""
+  },
+  {
+    "id": 37,
+    "word": "kochen",
+    "spelling": "کوخن",
+    "meaning": "cooking",
+    "example": ""
+  },
+  {
+    "id": 38,
+    "word": "Ich meld mich",
+    "spelling": "ایش ملد میش",
+    "meaning": "I'll leth you know",
+    "example": ""
+  },
+  {
+    "id": 39,
+    "word": "Ich habe Zait",
+    "spelling": "",
+    "meaning": "I have time",
+    "example": ""
+  },
+  {
+    "id": 40,
+    "word": "zut",
+    "spelling": "زوت",
+    "meaning": "train",
+    "example": ""
+  },
+  {
+    "id": 41,
+    "word": "brauchen",
+    "spelling": "بقاوخن",
+    "meaning": "to want",
+    "example": ""
+  },
+  {
+    "id": 42,
+    "word": "Messer",
+    "spelling": "مسا",
+    "meaning": "knife",
+    "example": ""
+  },
+  {
+    "id": 43,
+    "word": "Ich wache auf",
+    "spelling": "ایش واخه آووف",
+    "meaning": "I wake up",
+    "example": ""
+  },
+  {
+    "id": 44,
+    "word": "mit",
+    "spelling": "",
+    "meaning": "with",
+    "example": ""
+  },
+  {
+    "id": 45,
+    "word": "heiß",
+    "spelling": "",
+    "meaning": "hot",
+    "example": ""
+  },
+  {
+    "id": 46,
+    "word": "Lecker",
+    "spelling": "لکا",
+    "meaning": "delicious",
+    "example": ""
+  },
+  {
+    "id": 47,
+    "word": "käse",
+    "spelling": "کِیسه",
+    "meaning": "Cheese",
+    "example": ""
+  },
+  {
+    "id": 48,
+    "word": "Hund",
+    "spelling": "هونت",
+    "meaning": "Dog",
+    "example": ""
+  },
+  {
+    "id": 49,
+    "word": "Am Montag gehe ich zur Sprachschule",
+    "spelling": "آم مونتاگ گه هه ایش تسور شپراخشوله",
+    "meaning": "I go to language Institue on monday.",
+    "example": ""
+  },
+  {
+    "id": 50,
+    "word": "der Sonntag",
+    "spelling": "زون تاگ",
+    "meaning": "sunday",
+    "example": ""
+  },
+  {
+    "id": 51,
+    "word": "Dort",
+    "spelling": "دُرت",
+    "meaning": "there (a specific, distant place) more formal/precise.",
+    "example": "Da: there general/colloquial, can also mean then (time). Wo ist dein Auto? Es ist dort drüben."
+  },
+  {
+    "id": 52,
+    "word": "Gib mir",
+    "spelling": "گیب میا",
+    "meaning": "give it to me",
+    "example": ""
+  },
+  {
+    "id": 53,
+    "word": "der Unterricht",
+    "spelling": "اونتِرریشت",
+    "meaning": "Teaching or class instruction.",
+    "example": "Ich habe heute Deutschunterricht."
+  },
+  {
+    "id": 54,
+    "word": "heute",
+    "spelling": "هویته",
+    "meaning": "today.",
+    "example": "Ich habe heute Deutschunterricht."
+  },
+  {
+    "id": 55,
+    "word": "der Mittwoch",
+    "spelling": "میت‌وُخ",
+    "meaning": "Wednesday.",
+    "example": "Ich habe am Mittwoch Deutschunterricht."
+  },
+  {
+    "id": 56,
+    "word": "spazieren",
+    "spelling": "شپاتسیقِن",
+    "meaning": "to take a walk; to go for a walk.",
+    "example": "Ich gehe spazieren. Wir gehen jeden Abend spazieren."
+  },
+  {
+    "id": 57,
+    "word": "das Ei",
+    "spelling": "آی",
+    "meaning": "egg",
+    "example": ""
+  },
+  {
+    "id": 58,
+    "word": "die Spiesekarte",
+    "spelling": "اشپایزه کارته",
+    "meaning": "the Menu",
+    "example": ""
+  },
+  {
+    "id": 59,
+    "word": "kalt",
+    "spelling": "",
+    "meaning": "cold",
+    "example": ""
+  },
+  {
+    "id": 60,
+    "word": "salz",
+    "spelling": "سالتز",
+    "meaning": "salt",
+    "example": ""
+  },
+  {
+    "id": 61,
+    "word": "das Essen",
+    "spelling": "",
+    "meaning": "the food",
+    "example": ""
+  },
+  {
+    "id": 62,
+    "word": "Die Rechnung",
+    "spelling": "قشنونگ",
+    "meaning": "Bill, check",
+    "example": ""
+  },
+  {
+    "id": 63,
+    "word": "Wurst",
+    "spelling": "ورست",
+    "meaning": "Sausage",
+    "example": ""
+  },
+  {
+    "id": 64,
+    "word": "heir",
+    "spelling": "",
+    "meaning": "here",
+    "example": ""
+  },
+  {
+    "id": 65,
+    "word": "jetzt",
+    "spelling": "یِتسْت",
+    "meaning": "now; right now; at the moment.",
+    "example": "Ich lerne jetzt Deutsch. Es ist jetzt warm."
+  },
+  {
+    "id": 66,
+    "word": "krank",
+    "spelling": "کِقانک",
+    "meaning": "sick",
+    "example": ""
+  },
+  {
+    "id": 67,
+    "word": "schnell",
+    "spelling": "شُنل",
+    "meaning": "Quickly, fast",
+    "example": ""
+  },
+  {
+    "id": 68,
+    "word": "drüben",
+    "spelling": "دِغوبِن",
+    "meaning": "over there",
+    "example": ""
+  },
+  {
+    "id": 69,
+    "word": "das Zimmer",
+    "spelling": "",
+    "meaning": "room",
+    "example": ""
+  },
+  {
+    "id": 70,
+    "word": "stadt",
+    "spelling": "شتات",
+    "meaning": "city",
+    "example": ""
+  },
+  {
+    "id": 71,
+    "word": "Laut",
+    "spelling": "لاوت",
+    "meaning": "noisy,loud",
+    "example": ""
+  },
+  {
+    "id": 72,
+    "word": "aufregend",
+    "spelling": "آوفقیگنت",
+    "meaning": "exciting",
+    "example": ""
+  },
+  {
+    "id": 73,
+    "word": "auch",
+    "spelling": "آوخ",
+    "meaning": "too,also",
+    "example": ""
+  },
+  {
+    "id": 74,
+    "word": "Wie ist es in Wien?",
+    "spelling": "وین",
+    "meaning": "what's it like in Vienna?",
+    "example": ""
+  },
+  {
+    "id": 75,
+    "word": "neu",
+    "spelling": "نوی",
+    "meaning": "new",
+    "example": ""
+  },
+  {
+    "id": 76,
+    "word": "das kaufhouse",
+    "spelling": "",
+    "meaning": "department store",
+    "example": ""
+  },
+  {
+    "id": 77,
+    "word": "der schnee",
+    "spelling": "شنی",
+    "meaning": "snow",
+    "example": ""
+  },
+  {
+    "id": 78,
+    "word": "brauchen",
+    "spelling": "بقاوخن",
+    "meaning": "need, require",
+    "example": ""
+  },
+  {
+    "id": 79,
+    "word": "die hilfe",
+    "spelling": "هیلفه",
+    "meaning": "aid,help",
+    "example": ""
+  },
+  {
+    "id": 80,
+    "word": "mögen",
+    "spelling": "er",
+    "meaning": "like, be fond of, love.",
+    "example": "Ich mag, du magst, sies mag. Wir mögen, Ihr mogt, Sie/sie mögen"
+  },
+  {
+    "id": 81,
+    "word": "Aber",
+    "spelling": "آبا",
+    "meaning": "but",
+    "example": ""
+  },
+  {
+    "id": 82,
+    "word": "Wunderbar",
+    "spelling": "",
+    "meaning": "wonderful",
+    "example": ""
+  },
+  {
+    "id": 83,
+    "word": "Ihre",
+    "spelling": "ایقه",
+    "meaning": "your",
+    "example": ""
+  },
+  {
+    "id": 84,
+    "word": "die kasse",
+    "spelling": "کاسه",
+    "meaning": "cash register or box",
+    "example": ""
+  },
+  {
+    "id": 85,
+    "word": "die Ahnung",
+    "spelling": "آنونگ",
+    "meaning": "hunch,idea,gut feeling",
+    "example": ""
+  },
+  {
+    "id": 86,
+    "word": "das Rad",
+    "spelling": "قآت",
+    "meaning": "bicycle,bike,cycle",
+    "example": ""
+  },
+  {
+    "id": 87,
+    "word": "der Wald",
+    "spelling": "",
+    "meaning": "wood, forest",
+    "example": ""
+  },
+  {
+    "id": 88,
+    "word": "die Tasse",
+    "spelling": "",
+    "meaning": "cup",
+    "example": ""
+  },
+  {
+    "id": 89,
+    "word": "die Wohnung",
+    "spelling": "وونونگ",
+    "meaning": "flat,apartment",
+    "example": ""
+  },
+  {
+    "id": 90,
+    "word": "eine Wohnung suchen",
+    "spelling": "",
+    "meaning": "look for a flat",
+    "example": ""
+  },
+  {
+    "id": 91,
+    "word": "viele",
+    "spelling": "فیله",
+    "meaning": "many, a lot of",
+    "example": ""
+  },
+  {
+    "id": 92,
+    "word": "der Kugelschriber",
+    "spelling": "کوگل اِشقایبا",
+    "meaning": "pen",
+    "example": ""
+  },
+  {
+    "id": 93,
+    "word": "der bleistift",
+    "spelling": "بلایشتیفت",
+    "meaning": "pencil",
+    "example": ""
+  },
+  {
+    "id": 94,
+    "word": "die Schule",
+    "spelling": "شوله",
+    "meaning": "school",
+    "example": ""
+  },
+  {
+    "id": 95,
+    "word": "das Fahren",
+    "spelling": "فاقن",
+    "meaning": "drive",
+    "example": ""
+  },
+  {
+    "id": 96,
+    "word": "der Schüler",
+    "spelling": "",
+    "meaning": "schoolboy",
+    "example": ""
+  },
+  {
+    "id": 97,
+    "word": "der Schauspieler",
+    "spelling": "شقاوشپیلا",
+    "meaning": "actor",
+    "example": ""
+  },
+  {
+    "id": 98,
+    "word": "Schuhe",
+    "spelling": "شوعه",
+    "meaning": "shoes",
+    "example": ""
+  },
+  {
+    "id": 99,
+    "word": "der Freund",
+    "spelling": "فقویند",
+    "meaning": "freind",
+    "example": ""
+  },
+  {
+    "id": 100,
+    "word": "die Sprache",
+    "spelling": "شپقاخه",
+    "meaning": "language",
+    "example": ""
+  },
+  {
+    "id": 101,
+    "word": "in die Schule",
+    "spelling": "",
+    "meaning": "to school",
+    "example": ""
+  },
+  {
+    "id": 102,
+    "word": "die Brille",
+    "spelling": "بقیله",
+    "meaning": "glass",
+    "example": ""
+  },
+  {
+    "id": 103,
+    "word": "der Schlüssel",
+    "spelling": "",
+    "meaning": "key",
+    "example": ""
+  },
+  {
+    "id": 104,
+    "word": "das Leihen",
+    "spelling": "لایِن",
+    "meaning": "lending",
+    "example": ""
+  },
+  {
+    "id": 105,
+    "word": "leihen /verb.",
+    "spelling": "",
+    "meaning": "rent,lend,loan",
+    "example": ""
+  },
+  {
+    "id": 106,
+    "word": "die wiederholung",
+    "spelling": "ویده هُلوونگ",
+    "meaning": "repeat, repetition",
+    "example": ""
+  },
+  {
+    "id": 107,
+    "word": "malen",
+    "spelling": "",
+    "meaning": "draw,painting",
+    "example": ""
+  },
+  {
+    "id": 108,
+    "word": "Schach spielen",
+    "spelling": "",
+    "meaning": "Chess playing",
+    "example": ""
+  },
+  {
+    "id": 109,
+    "word": "Rad fahren /Verb",
+    "spelling": "",
+    "meaning": "bicycle driving",
+    "example": ""
+  },
+  {
+    "id": 110,
+    "word": "schwimmen/Verb",
+    "spelling": "",
+    "meaning": "swimme",
+    "example": ""
+  },
+  {
+    "id": 111,
+    "word": "das Schwimmen",
+    "spelling": "",
+    "meaning": "swimming",
+    "example": ""
+  },
+  {
+    "id": 112,
+    "word": "lesen",
+    "spelling": "لییزِن",
+    "meaning": "to read",
+    "example": ""
+  },
+  {
+    "id": 113,
+    "word": "singen",
+    "spelling": "زینگن",
+    "meaning": "to sing",
+    "example": ""
+  },
+  {
+    "id": 114,
+    "word": "rauchen",
+    "spelling": "قآوخن",
+    "meaning": "to smoke",
+    "example": ""
+  },
+  {
+    "id": 115,
+    "word": "der Fahrradweg",
+    "spelling": "",
+    "meaning": "bicycle track, bicycle path",
+    "example": ""
+  },
+  {
+    "id": 116,
+    "word": "alleine",
+    "spelling": "اَلآینه",
+    "meaning": "alone",
+    "example": ""
+  },
+  {
+    "id": 117,
+    "word": "der Weg",
+    "spelling": "",
+    "meaning": "way -> auf dem weg: on the way to",
+    "example": ""
+  },
+  {
+    "id": 118,
+    "word": "der Erfolg",
+    "spelling": "",
+    "meaning": "success",
+    "example": ""
+  },
+  {
+    "id": 119,
+    "word": "früh",
+    "spelling": "فِقووه",
+    "meaning": "early",
+    "example": ""
+  },
+  {
+    "id": 120,
+    "word": "die freiheit",
+    "spelling": "",
+    "meaning": "freedom",
+    "example": ""
+  },
+  {
+    "id": 121,
+    "word": "ein bisschen",
+    "spelling": "",
+    "meaning": "A little",
+    "example": ""
+  },
+  {
+    "id": 122,
+    "word": "Was beduetet das? What does it mean?",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 123,
+    "word": "Was machst du? What are you doing?",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 124,
+    "word": "komm mit",
+    "spelling": "",
+    "meaning": "come with me",
+    "example": ""
+  },
+  {
+    "id": 125,
+    "word": "warte mal",
+    "spelling": "",
+    "meaning": "wait a minute",
+    "example": ""
+  },
+  {
+    "id": 126,
+    "word": "der Beruf",
+    "spelling": "بقوف",
+    "meaning": "professione",
+    "example": ""
+  },
+  {
+    "id": 127,
+    "word": "anrufen",
+    "spelling": "آنقوفن",
+    "meaning": "to call.",
+    "example": "Ich rufe an: I call. Ich rufe meine Freundin an"
+  },
+  {
+    "id": 128,
+    "word": "später",
+    "spelling": "اشپیتا",
+    "meaning": "after,later,next",
+    "example": ""
+  },
+  {
+    "id": 129,
+    "word": "nach",
+    "spelling": "",
+    "meaning": "to,for,into; after",
+    "example": ""
+  },
+  {
+    "id": 130,
+    "word": "kaputt",
+    "spelling": "",
+    "meaning": "broken, damaged",
+    "example": ""
+  },
+  {
+    "id": 131,
+    "word": "Ich muss gehen",
+    "spelling": "",
+    "meaning": "I need to go",
+    "example": ""
+  },
+  {
+    "id": 132,
+    "word": "Zustimmen",
+    "spelling": "تسوشتیمن",
+    "meaning": "agree, approve",
+    "example": ""
+  },
+  {
+    "id": 133,
+    "word": "Ablehnen",
+    "spelling": "آپلینن",
+    "meaning": "decline,refuse, reject",
+    "example": ""
+  },
+  {
+    "id": 134,
+    "word": "das Zimmer",
+    "spelling": "",
+    "meaning": "room",
+    "example": ""
+  },
+  {
+    "id": 135,
+    "word": "kaufen",
+    "spelling": "کآوفن",
+    "meaning": "to buy",
+    "example": ""
+  },
+  {
+    "id": 136,
+    "word": "außer",
+    "spelling": "آوسا",
+    "meaning": "except",
+    "example": ""
+  },
+  {
+    "id": 137,
+    "word": "das Heute",
+    "spelling": "هویته",
+    "meaning": "now",
+    "example": ""
+  },
+  {
+    "id": 138,
+    "word": "stressig",
+    "spelling": "اشتِقِسیش",
+    "meaning": "stressful",
+    "example": ""
+  },
+  {
+    "id": 139,
+    "word": "interessant",
+    "spelling": "اینتِقِسانت",
+    "meaning": "interesting",
+    "example": ""
+  },
+  {
+    "id": 140,
+    "word": "bleiben",
+    "spelling": "بلایبن",
+    "meaning": "to stay",
+    "example": ""
+  },
+  {
+    "id": 141,
+    "word": "studieren",
+    "spelling": "شتودیقِن",
+    "meaning": "to study",
+    "example": ""
+  },
+  {
+    "id": 142,
+    "word": "der Raum",
+    "spelling": "قآووم",
+    "meaning": "space, room",
+    "example": ""
+  },
+  {
+    "id": 143,
+    "word": "ins",
+    "spelling": "",
+    "meaning": "into , into the",
+    "example": ""
+  },
+  {
+    "id": 144,
+    "word": "warum",
+    "spelling": "واقوم",
+    "meaning": "why",
+    "example": ""
+  },
+  {
+    "id": 145,
+    "word": "sagen",
+    "spelling": "",
+    "meaning": "say",
+    "example": ""
+  },
+  {
+    "id": 146,
+    "word": "reden",
+    "spelling": "قیدن",
+    "meaning": "speak,talk",
+    "example": ""
+  },
+  {
+    "id": 147,
+    "word": "frei",
+    "spelling": "فقای",
+    "meaning": "free",
+    "example": ""
+  },
+  {
+    "id": 148,
+    "word": "das Büro",
+    "spelling": "بیقو",
+    "meaning": "desk, writing table,Office",
+    "example": ""
+  },
+  {
+    "id": 149,
+    "word": "die Angst",
+    "spelling": "",
+    "meaning": "anxiety, fear,worry",
+    "example": ""
+  },
+  {
+    "id": 150,
+    "word": "neben",
+    "spelling": "",
+    "meaning": "near,next to",
+    "example": ""
+  },
+  {
+    "id": 151,
+    "word": "zu Hause",
+    "spelling": "",
+    "meaning": "at home",
+    "example": ""
+  },
+  {
+    "id": 152,
+    "word": "das Fernsehen",
+    "spelling": "فیِنزیهِن",
+    "meaning": ":TV",
+    "example": ""
+  },
+  {
+    "id": 153,
+    "word": "Ich kann jetzt nich",
+    "spelling": "",
+    "meaning": "I can't right now",
+    "example": ""
+  },
+  {
+    "id": 154,
+    "word": "Wirklich",
+    "spelling": "",
+    "meaning": "really",
+    "example": ""
+  },
+  {
+    "id": 155,
+    "word": "bestellen",
+    "spelling": "بشتِلِن",
+    "meaning": "to order",
+    "example": ""
+  },
+  {
+    "id": 156,
+    "word": "in die schule",
+    "spelling": "",
+    "meaning": "to school",
+    "example": ""
+  },
+  {
+    "id": 157,
+    "word": "vor",
+    "spelling": "",
+    "meaning": "in front of",
+    "example": ""
+  },
+  {
+    "id": 158,
+    "word": "die Antwort",
+    "spelling": "",
+    "meaning": "answer",
+    "example": ""
+  },
+  {
+    "id": 159,
+    "word": "schlafen",
+    "spelling": "شلافن",
+    "meaning": "to sleep",
+    "example": ""
+  },
+  {
+    "id": 160,
+    "word": "das Wissen",
+    "spelling": "",
+    "meaning": "knowledge",
+    "example": ""
+  },
+  {
+    "id": 161,
+    "word": "die Patientin",
+    "spelling": "پاتسیِنتن",
+    "meaning": "patient",
+    "example": ""
+  },
+  {
+    "id": 162,
+    "word": "Jaden tag",
+    "spelling": "یِدِن تاگ",
+    "meaning": "ever day",
+    "example": ""
+  },
+  {
+    "id": 163,
+    "word": "Zusammen",
+    "spelling": "",
+    "meaning": "together",
+    "example": ""
+  },
+  {
+    "id": 164,
+    "word": "immer",
+    "spelling": "ایما",
+    "meaning": "always",
+    "example": ""
+  },
+  {
+    "id": 165,
+    "word": "der Fahrer",
+    "spelling": "فاهقا",
+    "meaning": "driver",
+    "example": ""
+  },
+  {
+    "id": 166,
+    "word": "erforderlich",
+    "spelling": "ارفوردرلیش",
+    "meaning": "required, necessary",
+    "example": ""
+  },
+  {
+    "id": 167,
+    "word": "Ich mache mir Sorgen",
+    "spelling": "",
+    "meaning": "I am worry.",
+    "example": "Ich mache mir Sorgen um dich: I'm worry about you"
+  },
+  {
+    "id": 168,
+    "word": "Lieblings~",
+    "spelling": "پیشوند",
+    "meaning": "favorite.",
+    "example": "Lieblingsbuch: favourite book. Leiblingsstadt: my favourite city"
+  },
+  {
+    "id": 169,
+    "word": "das Kino",
+    "spelling": "",
+    "meaning": "cinema",
+    "example": ""
+  },
+  {
+    "id": 170,
+    "word": "nie",
+    "spelling": "",
+    "meaning": "never",
+    "example": ""
+  },
+  {
+    "id": 171,
+    "word": "fast",
+    "spelling": "",
+    "meaning": "almost, nearly, not quite",
+    "example": ""
+  },
+  {
+    "id": 172,
+    "word": "manchmal",
+    "spelling": "",
+    "meaning": "sometimes",
+    "example": ""
+  },
+  {
+    "id": 173,
+    "word": "oft",
+    "spelling": "",
+    "meaning": "often",
+    "example": ""
+  },
+  {
+    "id": 174,
+    "word": "versuchen",
+    "spelling": "فرزوخن",
+    "meaning": "attempt,try.",
+    "example": "Ich versuche Deutsch zu lernen: I try to learn Germany"
+  },
+  {
+    "id": 175,
+    "word": "der Hauptstadt",
+    "spelling": "",
+    "meaning": "capital",
+    "example": ""
+  },
+  {
+    "id": 176,
+    "word": "die Apotheke",
+    "spelling": "",
+    "meaning": "pharmacy",
+    "example": ""
+  },
+  {
+    "id": 177,
+    "word": "reisen",
+    "spelling": "قایزن",
+    "meaning": "to travel",
+    "example": ""
+  },
+  {
+    "id": 178,
+    "word": "die Ausstellung",
+    "spelling": "آسشدلونگ",
+    "meaning": "exhibition",
+    "example": ""
+  },
+  {
+    "id": 179,
+    "word": "spät",
+    "spelling": "شپِت",
+    "meaning": "late",
+    "example": ""
+  },
+  {
+    "id": 180,
+    "word": "schon wieder",
+    "spelling": "",
+    "meaning": "again, once more.",
+    "example": "Mein Handy ist ~ kaputt."
+  },
+  {
+    "id": 181,
+    "word": "das Wetter",
+    "spelling": "وِتا",
+    "meaning": "weather",
+    "example": ""
+  },
+  {
+    "id": 182,
+    "word": "Wann",
+    "spelling": "",
+    "meaning": "when",
+    "example": ""
+  },
+  {
+    "id": 183,
+    "word": "Rosa",
+    "spelling": "روزا",
+    "meaning": "pink color",
+    "example": ""
+  },
+  {
+    "id": 184,
+    "word": "Vielleicht",
+    "spelling": "فی‌لایشت",
+    "meaning": "maybe,perhaps",
+    "example": ""
+  },
+  {
+    "id": 185,
+    "word": "verstehen",
+    "spelling": "فِشتیهِن",
+    "meaning": "to understand",
+    "example": ""
+  },
+  {
+    "id": 186,
+    "word": "Ich weiß nicht",
+    "spelling": "ایش وایس نیخت",
+    "meaning": "I don't know",
+    "example": ""
+  },
+  {
+    "id": 187,
+    "word": "der Himmel",
+    "spelling": "",
+    "meaning": "heaven, sky",
+    "example": ""
+  },
+  {
+    "id": 188,
+    "word": "der Meister",
+    "spelling": "مایستا",
+    "meaning": "master",
+    "example": ""
+  },
+  {
+    "id": 189,
+    "word": "der Anfang",
+    "spelling": "",
+    "meaning": "start, beginning",
+    "example": ""
+  },
+  {
+    "id": 190,
+    "word": "Ihnen",
+    "spelling": "",
+    "meaning": "to you - for your",
+    "example": ""
+  },
+  {
+    "id": 191,
+    "word": "wer",
+    "spelling": "",
+    "meaning": "who",
+    "example": ""
+  },
+  {
+    "id": 192,
+    "word": "das Klavier",
+    "spelling": "",
+    "meaning": "Piano",
+    "example": ""
+  },
+  {
+    "id": 193,
+    "word": "Trainer",
+    "spelling": "تقِنا",
+    "meaning": "Trainer",
+    "example": ""
+  },
+  {
+    "id": 194,
+    "word": "der Kollegin",
+    "spelling": "کولِگین",
+    "meaning": "female colleague",
+    "example": ""
+  },
+  {
+    "id": 195,
+    "word": "wie geht es Ihnen?",
+    "spelling": "",
+    "meaning": "formal way of wie geht's",
+    "example": ""
+  },
+  {
+    "id": 196,
+    "word": "die Kneipe",
+    "spelling": "",
+    "meaning": "bar",
+    "example": ""
+  },
+  {
+    "id": 197,
+    "word": "Wie spät ist es?",
+    "spelling": "",
+    "meaning": "what time is it?",
+    "example": ""
+  },
+  {
+    "id": 198,
+    "word": "Frage stellen",
+    "spelling": "فقاگه اِشتِلِن",
+    "meaning": "asking quesion",
+    "example": ""
+  },
+  {
+    "id": 199,
+    "word": "der Fragesteller",
+    "spelling": "",
+    "meaning": "quistioner.",
+    "example": "Kann Ich dir/Ihnen eine Frage stellen? : can I ask you a question?"
+  },
+  {
+    "id": 200,
+    "word": "der Regen",
+    "spelling": "قِگِن",
+    "meaning": "rain",
+    "example": ""
+  },
+  {
+    "id": 201,
+    "word": "der Schnee",
+    "spelling": "",
+    "meaning": "snow",
+    "example": ""
+  },
+  {
+    "id": 202,
+    "word": "ausmachen",
+    "spelling": "",
+    "meaning": "turn off.",
+    "example": "Ich mache das Licht auf."
+  },
+  {
+    "id": 203,
+    "word": "anmachen",
+    "spelling": "",
+    "meaning": "turn on.",
+    "example": "Ich mache das Licht an."
+  },
+  {
+    "id": 204,
+    "word": "das Obst",
+    "spelling": "",
+    "meaning": "fruit",
+    "example": ""
+  },
+  {
+    "id": 205,
+    "word": "deshalb",
+    "spelling": "",
+    "meaning": "therefore.",
+    "example": "~ geht es nicht : therefore it doesn't work."
+  },
+  {
+    "id": 206,
+    "word": "raten",
+    "spelling": "قاتن",
+    "meaning": "guess, take a guess",
+    "example": ""
+  },
+  {
+    "id": 207,
+    "word": "besser",
+    "spelling": "",
+    "meaning": "better",
+    "example": ""
+  },
+  {
+    "id": 208,
+    "word": "das Fehlen",
+    "spelling": "",
+    "meaning": "gap, lack, absence",
+    "example": ""
+  },
+  {
+    "id": 209,
+    "word": "der Einwohner",
+    "spelling": "",
+    "meaning": "inhabitant",
+    "example": ""
+  },
+  {
+    "id": 210,
+    "word": "laufen",
+    "spelling": "",
+    "meaning": "run",
+    "example": ""
+  },
+  {
+    "id": 211,
+    "word": "mich",
+    "spelling": "",
+    "meaning": "me, myself.",
+    "example": "Die Freundin ruft mich an."
+  },
+  {
+    "id": 212,
+    "word": "keine Ahnung",
+    "spelling": "",
+    "meaning": "no idea",
+    "example": ""
+  },
+  {
+    "id": 213,
+    "word": "der Bahnhof",
+    "spelling": "",
+    "meaning": "railway station",
+    "example": ""
+  },
+  {
+    "id": 214,
+    "word": "die Universität",
+    "spelling": "اونیوِرسیتِت",
+    "meaning": "university",
+    "example": ""
+  },
+  {
+    "id": 215,
+    "word": "Wir sind da",
+    "spelling": "",
+    "meaning": "we are here",
+    "example": ""
+  },
+  {
+    "id": 216,
+    "word": "die Bibliothek",
+    "spelling": "",
+    "meaning": "library",
+    "example": ""
+  },
+  {
+    "id": 217,
+    "word": "wollen",
+    "spelling": "",
+    "meaning": "willing to, like to, wish to",
+    "example": ""
+  },
+  {
+    "id": 218,
+    "word": "gleich",
+    "spelling": "گلایش",
+    "meaning": "equal",
+    "example": ""
+  },
+  {
+    "id": 219,
+    "word": "abnehmen",
+    "spelling": "",
+    "meaning": "take off",
+    "example": ""
+  },
+  {
+    "id": 220,
+    "word": "die Stunde",
+    "spelling": "",
+    "meaning": "Time, duration",
+    "example": ""
+  },
+  {
+    "id": 221,
+    "word": "die Uhrzeit",
+    "spelling": "اوورتسایت",
+    "meaning": "Time,time of day,clock",
+    "example": ""
+  },
+  {
+    "id": 222,
+    "word": "die Uhr",
+    "spelling": "اووآ",
+    "meaning": ": watch, clock.",
+    "example": "Wie viel Uhr ist es? what time is it?"
+  },
+  {
+    "id": 223,
+    "word": "aufsetzen",
+    "spelling": "آوفسِتزین",
+    "meaning": "to put/place/set.",
+    "example": "Ich setze meine Brille auf."
+  },
+  {
+    "id": 224,
+    "word": "Ich habe es eillig",
+    "spelling": "آیلیش",
+    "meaning": "I'm in a hurry.",
+    "example": ""
+  },
+  {
+    "id": 225,
+    "word": "der Akku",
+    "spelling": "",
+    "meaning": "storage, battery",
+    "example": ""
+  },
+  {
+    "id": 226,
+    "word": "die Leute",
+    "spelling": "لویته",
+    "meaning": "people",
+    "example": ""
+  },
+  {
+    "id": 227,
+    "word": "aufstehen",
+    "spelling": "آوفشتِهِن",
+    "meaning": "get up, stand up,rise",
+    "example": ""
+  },
+  {
+    "id": 228,
+    "word": "der Sprudel",
+    "spelling": "ششپقوودِل",
+    "meaning": "sparkling mineral water.",
+    "example": "opposite of Stilles wasser => Möchten Sie einen Sprudel oder stilles Wasser?"
+  },
+  {
+    "id": 229,
+    "word": "das Gemüse",
+    "spelling": "",
+    "meaning": "Vegetables",
+    "example": ""
+  },
+  {
+    "id": 230,
+    "word": "Schreiben",
+    "spelling": "",
+    "meaning": "writing, letter",
+    "example": ""
+  },
+  {
+    "id": 231,
+    "word": "das Auge",
+    "spelling": "آوگِ",
+    "meaning": "eye",
+    "example": ""
+  },
+  {
+    "id": 232,
+    "word": "der Mond",
+    "spelling": "",
+    "meaning": "moon",
+    "example": ""
+  },
+  {
+    "id": 233,
+    "word": "der Stand",
+    "spelling": "",
+    "meaning": "star",
+    "example": ""
+  },
+  {
+    "id": 234,
+    "word": "die Meinung",
+    "spelling": "ماینونگ",
+    "meaning": "Opinion,attitude,view",
+    "example": ""
+  },
+  {
+    "id": 235,
+    "word": "das Viertel",
+    "spelling": "فیِتِل",
+    "meaning": "quarter",
+    "example": ""
+  },
+  {
+    "id": 236,
+    "word": "halb",
+    "spelling": "",
+    "meaning": "half",
+    "example": ""
+  },
+  {
+    "id": 237,
+    "word": "Hut ab",
+    "spelling": "هوت آب",
+    "meaning": "Bravo",
+    "example": ""
+  },
+  {
+    "id": 238,
+    "word": "alle Achtung",
+    "spelling": "آلِ آختونگ",
+    "meaning": "High five",
+    "example": ""
+  },
+  {
+    "id": 239,
+    "word": "die Andwendung",
+    "spelling": "",
+    "meaning": "use,utilisation",
+    "example": ""
+  },
+  {
+    "id": 240,
+    "word": "weil",
+    "spelling": "",
+    "meaning": "because",
+    "example": ""
+  },
+  {
+    "id": 241,
+    "word": "schön dich zu sehen",
+    "spelling": "",
+    "meaning": "it's nice to see you",
+    "example": ""
+  },
+  {
+    "id": 242,
+    "word": "die kiste",
+    "spelling": "",
+    "meaning": "box,case",
+    "example": ""
+  },
+  {
+    "id": 243,
+    "word": "Schwer",
+    "spelling": "اِشویآ",
+    "meaning": "heavy",
+    "example": ""
+  },
+  {
+    "id": 244,
+    "word": "tragen",
+    "spelling": "",
+    "meaning": "carry, bear,endure",
+    "example": ""
+  },
+  {
+    "id": 245,
+    "word": "Ich hätte gern ...",
+    "spelling": "",
+    "meaning": "I'd like",
+    "example": ""
+  },
+  {
+    "id": 246,
+    "word": "der löffel",
+    "spelling": "",
+    "meaning": "spoon",
+    "example": ""
+  },
+  {
+    "id": 247,
+    "word": "die Gabel",
+    "spelling": "",
+    "meaning": "fork",
+    "example": ""
+  },
+  {
+    "id": 248,
+    "word": "fern",
+    "spelling": "فیَن",
+    "meaning": "faraway,far",
+    "example": ""
+  },
+  {
+    "id": 249,
+    "word": "es gibt",
+    "spelling": "",
+    "meaning": "there is / there are.",
+    "example": "Es gibt viele Bücher hier. Gibt es hier ein Restaurant? Dort gibt es ein schönes Café."
+  },
+  {
+    "id": 250,
+    "word": "geben",
+    "spelling": "sie",
+    "meaning": "to give.",
+    "example": "ich gebe, du gibst, eres gibt, wir geben, ihr gebt, sie/Sie geben"
+  },
+  {
+    "id": 251,
+    "word": "mitkommen",
+    "spelling": "",
+    "meaning": "come with, come along",
+    "example": ""
+  },
+  {
+    "id": 252,
+    "word": "teuer",
+    "spelling": "تویا",
+    "meaning": "expensive",
+    "example": ""
+  },
+  {
+    "id": 253,
+    "word": "warten (auf) = to wait (for). Ich warte auf den Bus. Du wartest auf mich. Er wartet auf seine Freundin.",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 254,
+    "word": "die Woche",
+    "spelling": "",
+    "meaning": "week",
+    "example": ""
+  },
+  {
+    "id": 255,
+    "word": "wichtig",
+    "spelling": "ویشتیش",
+    "meaning": "important.",
+    "example": "Das ist wichtig."
+  },
+  {
+    "id": 256,
+    "word": "der Termin",
+    "spelling": "",
+    "meaning": "appointment",
+    "example": ""
+  },
+  {
+    "id": 257,
+    "word": "fernsehen",
+    "spelling": "فِنزیِن",
+    "meaning": "To watch TV.",
+    "example": "Ich sehe fern. Willst du fernsehen?"
+  },
+  {
+    "id": 258,
+    "word": "denken",
+    "spelling": "دِن کِن",
+    "meaning": "to think.",
+    "example": "Ich denke an dich. Er denkt an seine Familie."
+  },
+  {
+    "id": 259,
+    "word": "hässlich",
+    "spelling": "",
+    "meaning": "ist das gegenteil von schön.",
+    "example": ""
+  },
+  {
+    "id": 260,
+    "word": "das gegenteil von",
+    "spelling": "",
+    "meaning": "the opposite of.",
+    "example": "Das Gegenteil von groß ist klein."
+  },
+  {
+    "id": 261,
+    "word": "das Kleid",
+    "spelling": "",
+    "meaning": "dress",
+    "example": ""
+  },
+  {
+    "id": 262,
+    "word": "unglaublich",
+    "spelling": "",
+    "meaning": "unbelievable",
+    "example": ""
+  },
+  {
+    "id": 263,
+    "word": "wach",
+    "spelling": "",
+    "meaning": "awake",
+    "example": ""
+  },
+  {
+    "id": 264,
+    "word": "der Flughafen",
+    "spelling": "فلووگهافن",
+    "meaning": "Airport",
+    "example": ""
+  },
+  {
+    "id": 265,
+    "word": "viel",
+    "spelling": "فیل",
+    "meaning": "much,a lot of",
+    "example": ""
+  },
+  {
+    "id": 266,
+    "word": "Nächste",
+    "spelling": "نِشتزِه",
+    "meaning": "next",
+    "example": ""
+  },
+  {
+    "id": 267,
+    "word": "der Nachbar",
+    "spelling": "",
+    "meaning": "neighbour",
+    "example": ""
+  },
+  {
+    "id": 268,
+    "word": "der Flug",
+    "spelling": "",
+    "meaning": "flight",
+    "example": ""
+  },
+  {
+    "id": 269,
+    "word": "vielleicht",
+    "spelling": "فیلایشت",
+    "meaning": "maybe, perhaps",
+    "example": ""
+  },
+  {
+    "id": 270,
+    "word": "lustig",
+    "spelling": "",
+    "meaning": "humorous, funny",
+    "example": ""
+  },
+  {
+    "id": 271,
+    "word": "mehr",
+    "spelling": "mia",
+    "meaning": "more, further",
+    "example": ""
+  },
+  {
+    "id": 272,
+    "word": "kekse",
+    "spelling": "",
+    "meaning": "biscuits",
+    "example": ""
+  },
+  {
+    "id": 273,
+    "word": "das Ding",
+    "spelling": "",
+    "meaning": "thing",
+    "example": ""
+  },
+  {
+    "id": 274,
+    "word": "die Fahrt",
+    "spelling": "",
+    "meaning": "ride,drive",
+    "example": ""
+  },
+  {
+    "id": 275,
+    "word": "das Zählen",
+    "spelling": "",
+    "meaning": "count.",
+    "example": "Kann ich mit Karte zahlen?"
+  },
+  {
+    "id": 276,
+    "word": "alles",
+    "spelling": "",
+    "meaning": "everything",
+    "example": ""
+  },
+  {
+    "id": 277,
+    "word": "Fertig",
+    "spelling": "",
+    "meaning": "ready, all set,finished",
+    "example": ""
+  },
+  {
+    "id": 278,
+    "word": "das Niveau",
+    "spelling": "نیوو",
+    "meaning": "level",
+    "example": ""
+  },
+  {
+    "id": 279,
+    "word": "frisch",
+    "spelling": "",
+    "meaning": "fresh",
+    "example": ""
+  },
+  {
+    "id": 280,
+    "word": "Links",
+    "spelling": "",
+    "meaning": "left, left-hand",
+    "example": ""
+  },
+  {
+    "id": 281,
+    "word": "außen",
+    "spelling": "",
+    "meaning": "outdoors, outside, in open air",
+    "example": ""
+  },
+  {
+    "id": 282,
+    "word": "die Kürze",
+    "spelling": "",
+    "meaning": "shortness, briefness",
+    "example": ""
+  },
+  {
+    "id": 283,
+    "word": "Rückmeldung",
+    "spelling": "",
+    "meaning": "feedback.",
+    "example": "Ich hab noch keine Rückmeldung von dir gekriegt."
+  },
+  {
+    "id": 284,
+    "word": "wofür",
+    "spelling": "",
+    "meaning": "for what?",
+    "example": ""
+  },
+  {
+    "id": 285,
+    "word": "klar",
+    "spelling": "",
+    "meaning": "definitely, clear",
+    "example": ""
+  },
+  {
+    "id": 286,
+    "word": "das wandern",
+    "spelling": "",
+    "meaning": "hiking , walking",
+    "example": ""
+  },
+  {
+    "id": 287,
+    "word": "durstig",
+    "spelling": "",
+    "meaning": "thirsty",
+    "example": ""
+  },
+  {
+    "id": 288,
+    "word": "Leider",
+    "spelling": "",
+    "meaning": "unfortunately",
+    "example": ""
+  },
+  {
+    "id": 289,
+    "word": "hungrig",
+    "spelling": "هوونگقیش",
+    "meaning": ": hungry",
+    "example": ""
+  },
+  {
+    "id": 290,
+    "word": "darauf",
+    "spelling": "",
+    "meaning": "next,later,afterwards",
+    "example": ""
+  },
+  {
+    "id": 291,
+    "word": "reagieren",
+    "spelling": "قِقاگیگِن",
+    "meaning": "respond, react",
+    "example": ""
+  },
+  {
+    "id": 292,
+    "word": "rechts",
+    "spelling": "",
+    "meaning": "right, on the right",
+    "example": ""
+  },
+  {
+    "id": 293,
+    "word": "satt",
+    "spelling": "",
+    "meaning": "full",
+    "example": ""
+  },
+  {
+    "id": 294,
+    "word": "die Bäckerei",
+    "spelling": "",
+    "meaning": "bakery",
+    "example": ""
+  },
+  {
+    "id": 295,
+    "word": "der Zucker",
+    "spelling": "",
+    "meaning": "sugar",
+    "example": ""
+  },
+  {
+    "id": 296,
+    "word": "freut mich",
+    "spelling": "",
+    "meaning": "nice to meet you",
+    "example": ""
+  },
+  {
+    "id": 297,
+    "word": "welche",
+    "spelling": "ولشه",
+    "meaning": "which, what",
+    "example": ""
+  },
+  {
+    "id": 298,
+    "word": "die Geschichte",
+    "spelling": "",
+    "meaning": "tale,story, history",
+    "example": ""
+  },
+  {
+    "id": 299,
+    "word": "die Speise",
+    "spelling": "",
+    "meaning": "food",
+    "example": ""
+  },
+  {
+    "id": 300,
+    "word": "der Satz",
+    "spelling": "",
+    "meaning": "sentence",
+    "example": ""
+  },
+  {
+    "id": 301,
+    "word": "dunkel",
+    "spelling": "",
+    "meaning": "dark",
+    "example": ""
+  },
+  {
+    "id": 302,
+    "word": "Guck mal",
+    "spelling": "",
+    "meaning": "look",
+    "example": ""
+  },
+  {
+    "id": 303,
+    "word": "der Imbiss",
+    "spelling": "",
+    "meaning": "snack, light meal",
+    "example": ""
+  },
+  {
+    "id": 304,
+    "word": "Geöffnet",
+    "spelling": "",
+    "meaning": "open, unlock",
+    "example": ""
+  },
+  {
+    "id": 305,
+    "word": "möglich",
+    "spelling": "",
+    "meaning": "possible",
+    "example": ""
+  },
+  {
+    "id": 306,
+    "word": "der Vorname",
+    "spelling": "",
+    "meaning": "first name",
+    "example": ""
+  },
+  {
+    "id": 307,
+    "word": "der Nachname",
+    "spelling": "",
+    "meaning": "last name",
+    "example": ""
+  },
+  {
+    "id": 308,
+    "word": "freundlich",
+    "spelling": "",
+    "meaning": "gentle, friendly",
+    "example": ""
+  },
+  {
+    "id": 309,
+    "word": "Bis später, Pass auf dich auf",
+    "spelling": "",
+    "meaning": "see you later, take care",
+    "example": ""
+  },
+  {
+    "id": 310,
+    "word": "das Eis",
+    "spelling": "",
+    "meaning": "ice cream",
+    "example": ""
+  },
+  {
+    "id": 311,
+    "word": "Herzen",
+    "spelling": "",
+    "meaning": "hearts",
+    "example": ""
+  },
+  {
+    "id": 312,
+    "word": "was",
+    "spelling": "",
+    "meaning": "what, pardon",
+    "example": ""
+  },
+  {
+    "id": 313,
+    "word": "hinter",
+    "spelling": "",
+    "meaning": "behind",
+    "example": ""
+  },
+  {
+    "id": 314,
+    "word": "das Gebaüde",
+    "spelling": "",
+    "meaning": "Building , construction",
+    "example": ""
+  },
+  {
+    "id": 315,
+    "word": "die Bushaltestele",
+    "spelling": "",
+    "meaning": "Bus Stop",
+    "example": ""
+  },
+  {
+    "id": 316,
+    "word": "der Reis",
+    "spelling": "",
+    "meaning": "rice",
+    "example": ""
+  },
+  {
+    "id": 317,
+    "word": "der kenoblauch",
+    "spelling": "",
+    "meaning": "garlic",
+    "example": ""
+  },
+  {
+    "id": 318,
+    "word": "die Kartoffel",
+    "spelling": "",
+    "meaning": "potato",
+    "example": ""
+  },
+  {
+    "id": 319,
+    "word": "aufstehen",
+    "spelling": "",
+    "meaning": "get up.",
+    "example": "Ich stehe jeden Morgen um 7 Uhr auf"
+  },
+  {
+    "id": 320,
+    "word": "die Nähe",
+    "spelling": "نِه‌اِ",
+    "meaning": "nearness, proximity.",
+    "example": "Ich wohne in der Nähe der Schule."
+  },
+  {
+    "id": 321,
+    "word": "der Geburtstag",
+    "spelling": "گِبورتْسْ تاگ",
+    "meaning": "birthday.",
+    "example": "Ich habe heute Geburtstag."
+  },
+  {
+    "id": 322,
+    "word": "das Mitnehmen",
+    "spelling": "داس میت‌نِمن",
+    "meaning": "taking along.",
+    "example": "Ich finde das Mitnehmen von Getränken praktisch."
+  },
+  {
+    "id": 323,
+    "word": "höflich",
+    "spelling": "",
+    "meaning": "polite",
+    "example": ""
+  },
+  {
+    "id": 324,
+    "word": "pünktlich",
+    "spelling": "",
+    "meaning": "punctual",
+    "example": ""
+  },
+  {
+    "id": 325,
+    "word": "die Kündigung",
+    "spelling": "کون‌دی‌گونگ",
+    "meaning": "Termination (of contract/job).",
+    "example": "Ich habe meine Kündigung erhalten."
+  },
+  {
+    "id": 326,
+    "word": "leer",
+    "spelling": "لیآر",
+    "meaning": "empty",
+    "example": ""
+  },
+  {
+    "id": 327,
+    "word": "bar",
+    "spelling": "",
+    "meaning": "cash",
+    "example": ""
+  },
+  {
+    "id": 328,
+    "word": "Zahlen",
+    "spelling": "تسالن",
+    "meaning": "numbers, payment.",
+    "example": "Ich zahle die Rechnung."
+  },
+  {
+    "id": 329,
+    "word": "schmeken",
+    "spelling": "",
+    "meaning": "taste",
+    "example": ""
+  },
+  {
+    "id": 330,
+    "word": "süß",
+    "spelling": "",
+    "meaning": "sugary, sweet",
+    "example": ""
+  },
+  {
+    "id": 331,
+    "word": "riechen",
+    "spelling": "",
+    "meaning": "smell",
+    "example": ""
+  },
+  {
+    "id": 332,
+    "word": "komisch",
+    "spelling": "",
+    "meaning": "ridiculous, funny",
+    "example": ""
+  },
+  {
+    "id": 333,
+    "word": "das Einkaufen",
+    "spelling": "",
+    "meaning": "shopping",
+    "example": ""
+  },
+  {
+    "id": 334,
+    "word": "damit",
+    "spelling": "",
+    "meaning": "in order that, so that",
+    "example": ""
+  },
+  {
+    "id": 335,
+    "word": "die Lust",
+    "spelling": "",
+    "meaning": "desire, wish.",
+    "example": "Ich habe Lust auf Pizza"
+  },
+  {
+    "id": 336,
+    "word": "das schwimmbat",
+    "spelling": "شویم بات",
+    "meaning": "swimming pool",
+    "example": ""
+  },
+  {
+    "id": 337,
+    "word": "zeigen",
+    "spelling": "",
+    "meaning": "show",
+    "example": ""
+  },
+  {
+    "id": 338,
+    "word": "das Hemd",
+    "spelling": "",
+    "meaning": "shirt",
+    "example": ""
+  },
+  {
+    "id": 339,
+    "word": "dazu",
+    "spelling": "",
+    "meaning": "along with , in addition to.",
+    "example": "Ich möchte Pizza essen. Möchtest du dazu einen Salat?"
+  },
+  {
+    "id": 340,
+    "word": "die Miete",
+    "spelling": "",
+    "meaning": "rent",
+    "example": ""
+  },
+  {
+    "id": 341,
+    "word": "gesamt",
+    "spelling": "",
+    "meaning": "total,aggregate",
+    "example": ""
+  },
+  {
+    "id": 342,
+    "word": "der Lebenslauf",
+    "spelling": "",
+    "meaning": "CV",
+    "example": ""
+  },
+  {
+    "id": 343,
+    "word": "langsam",
+    "spelling": "",
+    "meaning": "slow",
+    "example": ""
+  },
+  {
+    "id": 344,
+    "word": "der Standort",
+    "spelling": "",
+    "meaning": "position, site, place, location",
+    "example": ""
+  },
+  {
+    "id": 345,
+    "word": "speichern",
+    "spelling": "شپایشن",
+    "meaning": "to save sth",
+    "example": ""
+  },
+  {
+    "id": 346,
+    "word": "herunter",
+    "spelling": "",
+    "meaning": "down, downward",
+    "example": ""
+  },
+  {
+    "id": 347,
+    "word": "der Laden",
+    "spelling": "",
+    "meaning": "store, shop, loading",
+    "example": ""
+  },
+  {
+    "id": 348,
+    "word": "das Herunterladen",
+    "spelling": "",
+    "meaning": "download",
+    "example": ""
+  },
+  {
+    "id": 349,
+    "word": "das Mittagessen",
+    "spelling": "",
+    "meaning": "lunch",
+    "example": ""
+  },
+  {
+    "id": 350,
+    "word": "nach hinten",
+    "spelling": "",
+    "meaning": "backward",
+    "example": ""
+  },
+  {
+    "id": 351,
+    "word": "nach innen",
+    "spelling": "",
+    "meaning": "inward",
+    "example": ""
+  },
+  {
+    "id": 352,
+    "word": "bewerben",
+    "spelling": "",
+    "meaning": "apply",
+    "example": ""
+  },
+  {
+    "id": 353,
+    "word": "schlecht",
+    "spelling": "",
+    "meaning": "bad",
+    "example": ""
+  },
+  {
+    "id": 354,
+    "word": "die Universität",
+    "spelling": "",
+    "meaning": "university",
+    "example": ""
+  },
+  {
+    "id": 355,
+    "word": "die fahrkarte",
+    "spelling": "",
+    "meaning": "ticket",
+    "example": ""
+  },
+  {
+    "id": 356,
+    "word": "besuchen",
+    "spelling": "",
+    "meaning": "visit, see",
+    "example": ""
+  },
+  {
+    "id": 357,
+    "word": "die Kunst",
+    "spelling": "",
+    "meaning": "art",
+    "example": ""
+  },
+  {
+    "id": 358,
+    "word": "zusenden",
+    "spelling": "",
+    "meaning": "send",
+    "example": ""
+  },
+  {
+    "id": 359,
+    "word": "zusendung",
+    "spelling": "",
+    "meaning": "delivery, shipment, sending",
+    "example": ""
+  },
+  {
+    "id": 360,
+    "word": "das Unternehmen",
+    "spelling": "",
+    "meaning": "organization, company, bussines firm",
+    "example": ""
+  },
+  {
+    "id": 361,
+    "word": "die Bewerbung",
+    "spelling": "",
+    "meaning": "job application, application",
+    "example": ""
+  },
+  {
+    "id": 362,
+    "word": "die Stelle",
+    "spelling": "",
+    "meaning": "position, place;job",
+    "example": ""
+  },
+  {
+    "id": 363,
+    "word": "Nur",
+    "spelling": "",
+    "meaning": "just",
+    "example": ""
+  },
+  {
+    "id": 364,
+    "word": "Kostenlos",
+    "spelling": "",
+    "meaning": "free",
+    "example": ""
+  },
+  {
+    "id": 365,
+    "word": "die Aufgabe",
+    "spelling": "",
+    "meaning": "job, task, lesson, assignment.",
+    "example": "Hausaufgaben => homework"
+  },
+  {
+    "id": 366,
+    "word": "ansehen",
+    "spelling": "",
+    "meaning": "to look at something / to watch.",
+    "example": "Ich möchte einen Film ansehen."
+  },
+  {
+    "id": 367,
+    "word": "lang",
+    "spelling": "",
+    "meaning": "Long",
+    "example": ""
+  },
+  {
+    "id": 368,
+    "word": "weile",
+    "spelling": "",
+    "meaning": "a while, a period of time",
+    "example": ""
+  },
+  {
+    "id": 369,
+    "word": "langweilig",
+    "spelling": "",
+    "meaning": "boring",
+    "example": ""
+  },
+  {
+    "id": 370,
+    "word": "fantastisch",
+    "spelling": "",
+    "meaning": "fantastic",
+    "example": ""
+  },
+  {
+    "id": 371,
+    "word": "dürfen",
+    "spelling": "",
+    "meaning": "permission.",
+    "example": "Ich darf hier parken. Darf ich reinkommrn?"
+  },
+  {
+    "id": 372,
+    "word": "die Lücke",
+    "spelling": "",
+    "meaning": "gap",
+    "example": ""
+  },
+  {
+    "id": 373,
+    "word": "würfen",
+    "spelling": "",
+    "meaning": "throw",
+    "example": ""
+  },
+  {
+    "id": 374,
+    "word": "zum Beispiel",
+    "spelling": "تسوم بای شپیل",
+    "meaning": "for example",
+    "example": ""
+  },
+  {
+    "id": 375,
+    "word": "die Seite",
+    "spelling": "",
+    "meaning": "page, slide",
+    "example": ""
+  },
+  {
+    "id": 376,
+    "word": "Darf ich raus? may I get out",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 377,
+    "word": "Darf ich rein? may I come in",
+    "spelling": "",
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "id": 378,
+    "word": "dachten",
+    "spelling": "",
+    "meaning": "think, believe",
+    "example": ""
+  },
+  {
+    "id": 379,
+    "word": "heiraten",
+    "spelling": "",
+    "meaning": "marry",
+    "example": ""
+  },
+  {
+    "id": 380,
+    "word": "buchstabieren",
+    "spelling": "",
+    "meaning": "spell",
+    "example": ""
+  },
+  {
+    "id": 381,
+    "word": "wiederholen",
+    "spelling": "",
+    "meaning": "repeat, review",
+    "example": ""
+  },
+  {
+    "id": 382,
+    "word": "der Punkt",
+    "spelling": "",
+    "meaning": "dot, point",
+    "example": ""
+  },
+  {
+    "id": 383,
+    "word": "der Beginn",
+    "spelling": "",
+    "meaning": "start, beginning",
+    "example": ""
+  },
+  {
+    "id": 384,
+    "word": "Ergänzen",
+    "spelling": "",
+    "meaning": "fill out, complete",
+    "example": ""
+  },
+  {
+    "id": 385,
+    "word": "das dritte mal",
+    "spelling": "دقیته",
+    "meaning": "thrid time",
+    "example": ""
+  },
+  {
+    "id": 386,
+    "word": "der Verkehr",
+    "spelling": "فرکیر",
+    "meaning": "traffic, road traffic",
+    "example": ""
+  },
+  {
+    "id": 387,
+    "word": "der Gehweg",
+    "spelling": "",
+    "meaning": "pavement, sidewalk",
+    "example": ""
+  },
+  {
+    "id": 388,
+    "word": "ausfüllen",
+    "spelling": "آوس فیلن",
+    "meaning": "to fill out/ to fill in.",
+    "example": "Ich muss dieses Formular ausfüllen."
+  },
+  {
+    "id": 389,
+    "word": "der Erste",
+    "spelling": "",
+    "meaning": "first",
+    "example": ""
+  },
+  {
+    "id": 390,
+    "word": "der Zweite",
+    "spelling": "",
+    "meaning": "second",
+    "example": ""
+  },
+  {
+    "id": 391,
+    "word": "das Tier",
+    "spelling": "",
+    "meaning": "animal.",
+    "example": "Haustiere => Pet"
+  },
+  {
+    "id": 392,
+    "word": "das Ausland",
+    "spelling": "",
+    "meaning": "foreign country",
+    "example": ""
+  },
+  {
+    "id": 393,
+    "word": "das Vermögen",
+    "spelling": "",
+    "meaning": "wealth, property, fortune",
+    "example": ""
+  },
+  {
+    "id": 394,
+    "word": "das Pferd",
+    "spelling": "",
+    "meaning": "horse",
+    "example": ""
+  },
+  {
+    "id": 395,
+    "word": "Treffen",
+    "spelling": "",
+    "meaning": "to meet or to hit.",
+    "example": "Ich treffe heute meinen Freund."
+  },
+  {
+    "id": 396,
+    "word": "das Frühstück",
+    "spelling": "",
+    "meaning": "breakfast",
+    "example": ""
+  },
+  {
+    "id": 397,
+    "word": "tanzen",
+    "spelling": "",
+    "meaning": "dance",
+    "example": ""
+  },
+  {
+    "id": 398,
+    "word": "meinen",
+    "spelling": "",
+    "meaning": "mean;think",
+    "example": ""
+  },
+  {
+    "id": 399,
+    "word": "faul",
+    "spelling": "",
+    "meaning": "lazy",
+    "example": ""
+  },
+  {
+    "id": 400,
+    "word": "das Kaninchen",
+    "spelling": "",
+    "meaning": "rabbit",
+    "example": ""
+  },
+  {
+    "id": 401,
+    "word": "brav",
+    "spelling": "",
+    "meaning": "good, well-behaved",
+    "example": ""
+  },
+  {
+    "id": 402,
+    "word": "gelichen",
+    "spelling": "",
+    "meaning": "the same",
+    "example": ""
+  },
+  {
+    "id": 403,
+    "word": "das Prozent",
+    "spelling": "",
+    "meaning": "percent",
+    "example": ""
+  },
+  {
+    "id": 404,
+    "word": "uns",
+    "spelling": "",
+    "meaning": "us",
+    "example": ""
+  },
+  {
+    "id": 405,
+    "word": "Ich habe keine Lust",
+    "spelling": "",
+    "meaning": "I'm not in a good mood",
+    "example": ""
+  }
+]
